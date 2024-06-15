@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **frontend , javascript , react.**
 
-- 📫 How to reach me **aalvpbjain93@gmail.com**
-
 - ⚡ Fun fact **I think I am quite funny and smart .**
 
 <h3 align="left">Connect with me:</h3>

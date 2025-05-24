@@ -99,3 +99,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+###
+
+<img src="https://raw.githubusercontent.com/LakshayJain458/LakshayJain458/output/snake.svg" alt="Snake animation" />
+
+###

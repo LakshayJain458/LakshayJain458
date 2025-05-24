@@ -1,21 +1,35 @@
 <h1 align="center">👋 Hey there! I'm Lakshay Jain</h1>
 <h3 align="center">🎯 A passionate Software Engineer and UI/UX Designer from India</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding" />
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshayjain458&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-# 💫 About Me:
-- 💻 Currently diving deep into **Full Stack Development**
-- 🎨 Designing sleek interfaces with **Figma** & **Canva**
-- 🚀 Building projects that blend creativity + code — from **Java-based systems** to **MERN stack apps**
-- 💡 Exploring **AI**, **Blockchain**, and **Automation**
+<div align="center">
+
+  <table style="border: 2px solid #3f3f46; border-radius: 12px; padding: 20px; background-color: #0d1117;">
+    <tr>
+      <td style="vertical-align: top; padding: 20px;">
+        <h2 style="color: #facc15; font-size: 1.5rem;">🦸‍♂️ About Me:</h2>
+        <hr style="border: 1px solid #3f3f46;" />
+        <ul style="color: #f8f8f2; font-size: 1rem; text-align: left; list-style-type: disc;">
+          <li>💻 <strong>Currently diving deep into <span style="color: #58a6ff;">Full Stack Development</span></strong></li>
+          <li>🎨 <strong>Designing sleek interfaces with <span style="color: #ff79c6;">Figma</span> & <span style="color: #ffb86c;">Canva</span></strong></li>
+          <li>🚀 <strong>Building projects that blend creativity + code</strong></li>
+          <li>💡 <strong>Exploring <span style="color: #50fa7b;">AI</span>, <span style="color: #bd93f9;">Blockchain</span>, and <span style="color: #f1fa8c;">Automation</span></strong></li>
+        </ul>
+      </td>
+      <td style="padding: 20px;">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding gif" style="border-radius: 10px; border: 1px solid #3f3f46;" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
 
 ---
 

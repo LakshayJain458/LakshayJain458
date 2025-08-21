@@ -34,6 +34,7 @@
 ---
 
 ## 🌐 Connect with Me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=flat&logo=vercel&logoColor=38BDF8&labelColor=0A192F)](https://lakshayjain-dev.vercel.app/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/lakshayjain16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-jain001/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aalvpbjain93@gmail.com)
